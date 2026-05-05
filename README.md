@@ -45,8 +45,6 @@ This project analyzes digital transaction data inspired by PhonePe services, inc
 2. Open in Power BI Desktop
 3. Use filters to explore insights
 
-## 🔗 Live Dashboard
-(Paste Power BI link if published)
 
 ## 👤 Author
 Priyanshi Bisht
