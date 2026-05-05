@@ -23,11 +23,11 @@ This project analyzes digital transaction data inspired by PhonePe services, inc
   * Money Transfers
 
 ## 📷 Dashboard Preview
-![Transactions](images/payments-dashboard.png)
-![Insurence](images/payments-dashboard.png)
-![Loans](images/payments-dashboard.png)
-![MoneyTransfer](images/payments-dashboard.png)
-![RechargeBill](images/payments-dashboard.png)
+![Transactions](Images/Transactions.png)
+![Insurence](Images/Insurence.png)
+![Loans](Images/Loans.png)
+![MoneyTransfer](Images/MoneyTransfer.png)
+![RechargeBill](Images/RechargeBill.png)
 
 ## 📌 Key Insights
 * Most transactions are **successful (>95%)**, indicating system reliability
