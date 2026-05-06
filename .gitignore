@@ -1,0 +1,26 @@
+# OS / System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Excel Temporary Files
+~$*.xlsx
+~$*.xls
+
+# Power BI Temporary / Cache Files
+*.pbix.lock
+*.pbit.lock
+
+# Backup / Old Versions
+*.bak
+*.old
+*.backup
+
+# Large Data Files (optional)
+*.csv
+*.xlsx
