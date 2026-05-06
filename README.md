@@ -41,7 +41,7 @@ This project analyzes digital transaction data inspired by PhonePe services, inc
 * Enables better decision-making for service improvements
 
 ## 🚀 How to Use
-1. Download `.pbix` file
+1. Download `.pbit` file
 2. Open in Power BI Desktop
 3. Use filters to explore insights
 
